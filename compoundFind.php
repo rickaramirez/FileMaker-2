@@ -1,7 +1,7 @@
 <html>
 <head>
 <!-- declare charset as UTF-8 -->
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta v="content-type" content="text/html; charset=UTF-8">
 </head>
 <body>
 
