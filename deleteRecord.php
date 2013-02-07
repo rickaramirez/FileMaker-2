@@ -20,7 +20,7 @@
 // Turn on output buffering so that we can set Location: HTTP Header later on
 ob_start();
 
-require_once("FileMaker.php");
+//require_once("FileMaker.php");
 
 // Create FileMaker object
 // Location of FileMaker Server is assumed to be on the same machine,
